@@ -1,6 +1,6 @@
-👋 Hi, I’m @Ninotter
+Hello!
 <br>
-🌱 I’m currently learning JavaScript, React, C#, PHP, Symfony!
+Student, working as a C# .NET Framework developer.
 
 <!---
 Ninotter/Ninotter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
