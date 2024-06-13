@@ -1,6 +1,6 @@
 Hello!
 <br>
-Student, working as a C# .NET Framework developer.
+Student, working as a C# .NET developer.
 
 <!---
 Ninotter/Ninotter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
